@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# EDA Project
+This version uses React, Redux, Express, and PostgreSQL (a full list of dependencies can be found in `package.json`).
 
 ## Available Scripts
 
